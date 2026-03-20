@@ -344,6 +344,7 @@ gigshield/
 
 *GigShield — Because every delivery partner deserves a safety net as reliable as their work ethic.*
 
-> **Team:** [Team Name]
+> **Team:** ByteCoders
+> **Tean Member:** Nikita Shrivastava, Smurti Rani Khadanga ,Aastha Singh, Aparupa Samal 
 > **Hackathon:** Guidewire DEVTrails 2026
 > **Phase 1 Submission Deadline:** March 20, 2026
